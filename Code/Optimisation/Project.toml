@@ -1,0 +1,10 @@
+name = "Optimisation"
+uuid = "06835e52-e585-4541-a0b3-6f07c1fd8dc4"
+authors = ["Patrick Armstrong <patrick.james.1998@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Chairmarks = "0ca39b1e-fe0b-4e98-acfc-b1656634c4de"
+
+[compat]
+Chairmarks = "1.2.2"

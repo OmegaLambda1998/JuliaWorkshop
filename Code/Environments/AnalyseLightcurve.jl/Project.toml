@@ -1,0 +1,10 @@
+name = "AnalyseLightcurve"
+uuid = "527e2035-33be-4fac-80bf-d82ea5224391"
+authors = ["Patrick Armstrong <patrick.james.1998@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+
+[compat]
+CairoMakie = "0.12.13"

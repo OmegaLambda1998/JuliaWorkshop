@@ -1,0 +1,4 @@
+name = "MyAqwesomeProject"
+uuid = "2432a570-a4ec-4e0e-a2ab-9b18c2dd83c0"
+authors = ["Patrick Armstrong <patrick.james.1998@gmail.com>"]
+version = "0.1.0"

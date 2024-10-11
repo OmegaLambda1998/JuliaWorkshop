@@ -1,0 +1,12 @@
+name = "StructsMethodsTypes"
+uuid = "bdca8b4b-9668-4156-988b-b9ae4871ef16"
+authors = ["Patrick Armstrong <patrick.james.1998@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+
+[compat]
+CairoMakie = "0.12.13"
+Unitful = "1.21.0"

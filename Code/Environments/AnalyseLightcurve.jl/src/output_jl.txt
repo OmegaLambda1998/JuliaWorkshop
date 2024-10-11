@@ -1,0 +1,2 @@
+Data has Headers: SubString{String}["time", "flux", "mu", "e_magnitude", "facility", "name", "instrument", "e_zp", "absmagnitude", "zp", "e_absmagnitude", "upperlimit", "magnitude", "z", "band", "e_flux"]
+Data has 6747 elements
